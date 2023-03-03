@@ -1,1 +1,1 @@
-Bruh..,
+Print("Hello World!")
